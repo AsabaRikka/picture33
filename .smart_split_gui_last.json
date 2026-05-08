@@ -1,13 +1,13 @@
 {
-  "in_dir": "C:/Users/tanyu/Desktop/picture33/input",
-  "out_dir": "C:/Users/tanyu/Desktop/picture33/output",
-  "recursive": true,
+  "in_dir": "D:/App/picture33/input",
+  "out_dir": "D:/App/picture33/output",
+  "recursive": false,
   "keep_structure": false,
   "disable_trim": false,
   "split_mode": "3x3",
   "params": {
     "white_threshold": 220,
-    "sep_ratio": 0.98,
+    "sep_ratio": 0.97,
     "min_seg": 32,
     "trim_ratio": 0.995,
     "jpg_quality": 95
